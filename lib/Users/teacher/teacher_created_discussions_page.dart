@@ -35,7 +35,6 @@ class _TeacherCreatedDiscussionsPageState extends State<TeacherCreatedDiscussion
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.red,
         title: const Text(
           'Discussions',
           style: TextStyle(fontSize: 20),
