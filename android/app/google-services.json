@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "121255107816",
+    "firebase_url": "https://security-6005cem-default-rtdb.firebaseio.com",
+    "project_id": "security-6005cem",
+    "storage_bucket": "security-6005cem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121255107816:android:f4a206dc2d6b09e6cbbd5d",
+        "android_client_info": {
+          "package_name": "com.example.security"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQMREH0cF-OB-Ej_kPJjzksaPZnmOSKys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
